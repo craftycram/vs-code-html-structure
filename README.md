@@ -7,7 +7,15 @@ A snippet to speed up your workflow in HTML.
 3. Enter `Preferences: Configure User Snippets`.
 4. Confirm with <kbd>Return</kbd>.
 5. Enter `html` and confirm with <kbd>Return</kbd>.
-6. Copy paste the content below.
+6. Copy paste the code below.
+
+## Usage
+This snippet makes creating the basic HTML structure easy.
+1. Create a `.html` file
+2. Enter `html` and hit <kbd>Return</kbd>.
+3. The snippet creates a basic HTML structure.
+
+You can also use <kbd>⇥ Tab</kbd> to jump to the next placeholder.
 
 ## Code
 ```json
